@@ -1,0 +1,19 @@
+#num{
+    display: block;
+    text-align: center;
+    font-size: 100px;
+}
+#box{
+    text-align: center;
+}
+.buttons{
+    padding: 10px;
+    font-weight: bold;
+    background-color: rgb(68, 171, 180);
+    color: white;
+    border-radius: 7px;
+    transition: background-color 0.5s;
+}
+.buttons:hover{
+    background-color: rgb(19, 109, 118);
+}

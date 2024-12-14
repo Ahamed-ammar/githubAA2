@@ -1,0 +1,158 @@
+body{
+    background-color: #99a98f;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+#all{
+    margin-top: 30px;
+    text-align: center;
+    
+}
+.element{
+    font-size: larger;
+    padding: 10px;
+    text-decoration: none;
+    color: #425245;
+    cursor: pointer;
+}
+#information{
+    text-align: center;
+    display: inline-block;
+}
+.home{
+    background-color: #fcfafa;
+    padding: 10px;
+    border-radius: 10px;
+}
+#photo{
+    height: 180px;
+    width: 180px;
+    margin-top: 30px;
+    border-radius: 1000px;
+}
+#name{
+    color: #5e7863;
+    padding: 0px;
+    margin: 0px;
+}
+
+#mail{
+    color: rgba(128, 128, 128, 0.946);
+    margin-top: 10px;
+}
+.interest{
+    color: #425245;
+    font-size: 20px;
+    font-weight: bold;
+}
+#loca-btn{
+    color: rgba(128, 128, 128, 0.946);
+    width: 10px;
+}
+.loca-text{
+    margin: 0px;
+    color: rgba(128, 128, 128, 0.946);
+    font-size: 20px;
+} 
+#insta{
+    margin-top: 30px;
+    width: 50px;
+    cursor: pointer;
+}
+#x{
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 50px;
+    cursor: pointer;
+}
+#email{
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 50px;
+    cursor: pointer;
+}
+.media{
+    padding: 15px;
+}
+#bookrec{
+    color: #425245;
+    font-size: 30px;
+}
+#book{
+    border: 5px solid;
+    border-radius: 30px;
+    width: 300px;
+}
+#box1{
+    margin-top: 30px;
+    width:528px;
+    background-color: #d2cece;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: larger;
+}
+button{
+    margin-top: 10px;
+    background-color: #7d8f85;
+    width:500px;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+    text-align: start;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    font-size: larger;
+    font-weight: bold;
+    cursor: pointer;
+}
+#box1:hover{
+    background-color: #b1adad;
+    width: 530px;
+}
+#box2{
+    width:540px;
+    background-color: #7d8f85;
+    border-radius: 15px;
+    text-align: start;
+    letter-spacing: 1px;
+    color: #fff;
+    margin: 0px;
+    padding: 1px;
+    cursor: pointer;
+}
+#box2 h2{
+    margin-left: 10px;
+}
+
+#box2:hover{
+    width: 542px;
+}
+
+#inner{
+    width: 520px;
+    background-color: #d2cece;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#inner h5,p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+    color: #425245;
+}
+
+#inner #head{
+    text-align: start;
+    font-weight: bold;
+    color: black;
+    font-size: large;
+    text-decoration: none; 
+}
+#inner:hover{
+    width: 522px;
+    background-color: #a7a3a3;
+}

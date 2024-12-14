@@ -1,0 +1,42 @@
+body{
+    background-color: #99a98f;
+    display: flex;
+    justify-content: center;
+}
+#info-box{
+    margin-left: 120px;
+}
+#all{
+    margin-top: 30px;
+}
+
+#hobby h1{
+    color: #425245;
+}
+#hobby p{
+    /* text-align: ; */
+    font-size: 16px;
+    color: rgb(30, 30, 30);
+}
+.element{
+    font-size: 20px;
+    padding: 10px;
+    text-decoration: none;
+    color: #425245;
+    cursor: pointer;
+}
+.home:hover{
+    font-size: 22px;
+}
+#information{
+    display: inline-block;
+}
+.about{
+    background-color: #fcfafa;
+    padding: 10px;
+    border-radius: 10px;
+}
+.para{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
